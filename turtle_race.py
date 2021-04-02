@@ -3,7 +3,7 @@ import math
 import random
 
 
-# Written by John Nguyen
+# Written by Johnson Nguyen
 # This was one of the first code I've ever written assigned from one of my Labs at the University of Minnesota
 def race():
   #initializing 3 turtle objects

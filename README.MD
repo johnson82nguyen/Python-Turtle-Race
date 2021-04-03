@@ -1,6 +1,6 @@
 # Turtle race
 
-This is one of the first ever programming assignments I've ever done at the University of Minnesota. This little assignment meant a lot to me because it was how I first got started into coding. It's a cute little script that makes turtles race against each other.
+This is one of the first ever programming assignments I've ever done at the University of Minnesota. This little assignment meant a lot to me because it was how I first got started into coding. It's a cute little script of about 10 lines that makes turtles race against each other.
 
 Wanna take bets?
 
